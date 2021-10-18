@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TarIryna/goit-react-hw-07-phonebook/static/css/main.6fb1d36d.chunk.css",
+    "main.js": "/TarIryna/goit-react-hw-07-phonebook/static/js/main.7cc34823.chunk.js",
+    "main.js.map": "/TarIryna/goit-react-hw-07-phonebook/static/js/main.7cc34823.chunk.js.map",
+    "runtime-main.js": "/TarIryna/goit-react-hw-07-phonebook/static/js/runtime-main.8fa74a6b.js",
+    "runtime-main.js.map": "/TarIryna/goit-react-hw-07-phonebook/static/js/runtime-main.8fa74a6b.js.map",
+    "static/css/2.a13fcf93.chunk.css": "/TarIryna/goit-react-hw-07-phonebook/static/css/2.a13fcf93.chunk.css",
+    "static/js/2.3aaa30fb.chunk.js": "/TarIryna/goit-react-hw-07-phonebook/static/js/2.3aaa30fb.chunk.js",
+    "static/js/2.3aaa30fb.chunk.js.map": "/TarIryna/goit-react-hw-07-phonebook/static/js/2.3aaa30fb.chunk.js.map",
+    "index.html": "/TarIryna/goit-react-hw-07-phonebook/index.html",
+    "static/css/2.a13fcf93.chunk.css.map": "/TarIryna/goit-react-hw-07-phonebook/static/css/2.a13fcf93.chunk.css.map",
+    "static/css/main.6fb1d36d.chunk.css.map": "/TarIryna/goit-react-hw-07-phonebook/static/css/main.6fb1d36d.chunk.css.map",
+    "static/js/2.3aaa30fb.chunk.js.LICENSE.txt": "/TarIryna/goit-react-hw-07-phonebook/static/js/2.3aaa30fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fa74a6b.js",
+    "static/css/2.a13fcf93.chunk.css",
+    "static/js/2.3aaa30fb.chunk.js",
+    "static/css/main.6fb1d36d.chunk.css",
+    "static/js/main.7cc34823.chunk.js"
+  ]
+}
